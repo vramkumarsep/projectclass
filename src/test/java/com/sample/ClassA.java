@@ -17,6 +17,21 @@ public class ClassA {
 
 	}
 
+	private void api() {
+		System.out.println("Web Service");
+
+	}
+
+	private void appium() {
+		System.out.println("Mobile");
+
+	}
+
+	private void sql() {
+		System.out.println("Query");
+
+	}
+
 	private void web() {
 		System.out.println("Selenium");
 
@@ -29,7 +44,6 @@ public class ClassA {
 
 	private void desktop() {
 		System.out.println("QTP");
-
 	}
 
 }
