@@ -32,4 +32,18 @@ public class ClassA {
 
 	}
 
+	private void web() {
+		System.out.println("Selenium");
+
+	}
+
+	private void mobile() {
+		System.out.println("Appium");
+
+	}
+
+	private void desktop() {
+		System.out.println("QTP");
+	}
+
 }
